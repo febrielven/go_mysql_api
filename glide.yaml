@@ -1,0 +1,6 @@
+package: github.com/febrielven/go_mysql_api
+import:
+- package: github.com/gorilla/mux
+  version: ~1.7.3
+- package: github.com/jinzhu/gorm
+  version: ~1.9.11
